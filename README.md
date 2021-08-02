@@ -1,6 +1,6 @@
 # HLS\_Parser
 ## About
-A parser that reads Vivado/Vitis HLS synthesized top-level verilog files and outputs data on there inputs and outputs, which can be passed to the `HLS_Wrapper` to generate a *(current partial)* wrapper.
+A parser that reads Vivado/Vitis HLS synthesized top-level verilog files and outputs data on there inputs and outputs, which can be passed to the `HLS_Wrapper` to generate a *(currently partial)* wrapper.
 ## How to build from source
 Running:
 ```
