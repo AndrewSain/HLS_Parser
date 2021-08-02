@@ -8,7 +8,7 @@ cargo build --release
 ```
 from the root of the cloned repository, or
 ```
-rustc main.rs
+rustc main.rs -o hls_parser
 ```
 from the `src` folder will compile the program.
 ## How to use the program
